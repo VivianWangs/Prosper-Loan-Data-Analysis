@@ -1,5 +1,5 @@
 # Prosper Loan Data Exploratory Analysis
-## by Vivian Wang
+
 
 
 
